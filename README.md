@@ -1,3 +1,5 @@
+<p align="center"><img src="./orbital-toolbelt.svg" alt="Rounak Shaw technology orbit" width="100%" /></p>
+
 <h1 align="center">Rounak Shaw</h1>
 <p align="center"><strong>BCA Student · Java & Web Development</strong></p>
 

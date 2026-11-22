@@ -1,14 +1,5 @@
 <p align="center"><img src="./orbital-toolbelt.svg" alt="Rounak Shaw technology orbit" width="100%" /></p>
 
-<h1 align="center">Rounak Shaw</h1>
-<p align="center"><strong>BCA Student · Java & Web Development</strong></p>
-
-<p align="center">
-  <a href="https://rounakshaw2004.github.io/potfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rounak-shaw-271a16321"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/rounakshaw2004"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
 ## About me
 
 I’m **Rounak Shaw**, a BCA student at **Techno India, Kolkata**, focused on building practical web applications. I enjoy working across the stack—from Java and MySQL on the backend to clean, responsive interfaces on the frontend. I’m growing my skills in Java, JavaScript, SQL, and AWS, and I’m open to internship opportunities.

@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:0e7490,100:ec4899&height=190&section=header&text=Rounak%20Shaw&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=BCA%20Student%20%7C%20Java%20%26%20Web%20Development&descAlignY=58&descSize=16" alt="Rounak Shaw — BCA student, Java and web development" width="100%" />
-</p>
+<h1 align="center">Rounak Shaw</h1>
+<p align="center"><strong>BCA Student · Java & Web Development</strong></p>
 
 <p align="center">
   <a href="https://rounakshaw2004.github.io/potfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
